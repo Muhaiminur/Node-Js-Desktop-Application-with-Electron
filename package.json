@@ -18,7 +18,7 @@
     "battery-level": "^3.0.0",
     "electron-squirrel-startup": "^1.0.0",
     "firebase": "^6.2.4",
-    "firebase-admin": "^8.2.0",
+    "firebase-admin": "^11.4.1",
     "is-charging": "^2.0.0"
   }
 }
